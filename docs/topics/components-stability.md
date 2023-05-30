@@ -1,4 +1,4 @@
-[//]: # (title: Stability of Kotlin components)
+[//]:  # (tiêu đề: Tính ổn định của các thành phần Kotlin)2
 
 The Kotlin language and toolset are divided into many components such as the compilers for the JVM, JS and Native targets, the Standard Library, various accompanying tools and so on.
 Many of these components were officially released as **Stable** which means that they are evolved in the backward-compatible way following the [principles](kotlin-evolution.md) of _Comfortable Updates_ and _Keeping the Language Modern_.
